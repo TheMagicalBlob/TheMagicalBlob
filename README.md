@@ -1,6 +1,7 @@
-Hey There, I’m @TheMagicalBlob. I Make Mods/Cheats For PS3/4 Games.
-Sometimes I Make Videos Out Of Them.
-You Can Find Me On Youtube At https://www.youtube.com/channel/UCqYd1YadQvjnAj_LfHK4iEQ, Or On Discord At TheMagicalBlob#9808
+Hey There, I’m @TheMagicalBlob. I Make Mods/Cheats For PS4 Games.
+I Mostly Screw With Debug Stuff
+
+You Can Find Me On Discord At TheMagicalBlob#9808, Or On Youtube At https://www.youtube.com/channel/UCqYd1YadQvjnAj_LfHK4iEQ 
 
 
 <!---
