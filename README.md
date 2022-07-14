@@ -4,11 +4,11 @@ I Mostly Screw With Debug Stuff
 You Can Find Me On Discord At TheMagicalBlob#9808, Or On Youtube At https://www.youtube.com/channel/UCqYd1YadQvjnAj_LfHK4iEQ 
 
 
-Below Is A List Of Patches I've Made Over The Years For Various Games (This Is My Personal List, So Excpect The Occasional Random Comment Or Half-Added Patch)
+Below Is A (Poory Formatted For Now) List Of Patches I've Made Over The Years For Various Games. This Is My Own Personal List, So Excpect The Occasional Random Comment Or Half-Added Patch
 
-(F; == Find | R; == Replace With)
+**(F; == Find | R; == Replace With)**
 
-(M) Means The Address Is For Memory Editors Like PS4Cheater
+**(M) Means The Address Is For Memory Editors Like PS4Cheater**
 
                                                                                                -------------------------
                                                                                                |Mafia II 1.00 CUSA00000|
