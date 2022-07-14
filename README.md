@@ -69,7 +69,8 @@ Always 1 HP (Helps Moze): C5-7A-11-83-A0-00-00-00 or C5-FA-11-B3-A0-00-00-00
 
 1.26
 
-Infinite Clip Ammo (OG Clip Drain Addr 0x5838EF4)
+Infinite Clip Ammo (OG Clip Drain Addr 0x5838EF4)[Code List.txt](https://github.com/TheMagicalBlob/TheMagicalBlob/files/9114551/Code.List.txt)
+
 Address 5838EC2
 Drain; 0x45, 0x29, 0xF4
 Infinite; 0x45, 0x29, 0xF6
