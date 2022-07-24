@@ -10,7 +10,7 @@ Use The Find\Replace-With On The Decrypted eboot.bin Or Write 0x01 To The Offset
 
 
 
-The Last of Us Remastered 1.00
+**The Last of Us Remastered 1.00**
 
 Eboot Patch
 
@@ -21,7 +21,7 @@ R; C6 87 81 2E 00 00 01
 Memory Edit
 0x114ED32E81
 
-The Last of Us Remastered 1.09 to 1.11
+**The Last of Us Remastered 1.09 to 1.11**
 
 Eboot Patch
 
@@ -33,7 +33,7 @@ R; c6 87 81 2e 00 00 01
 Memory Edit
 0x114F536E81
 
-The Last of Us Part II 1.00
+**The Last of Us Part II 1.00**
 
 Eboot Patch
 
@@ -45,7 +45,7 @@ R; b0 01 eb 49 4c
 Memory Edit
 0x110693FAA1
 
-The Last of Us Part II 1.07 to 1.09
+**The Last of Us Part II 1.07 to 1.09**
 
 Eboot Patch
 
@@ -56,7 +56,7 @@ R; b0 01 eb 4c 4c
 Memory Edit
 0x11069DFAA1
 
-Uncharted: The Nathan Drake Collection
+**Uncharted: The Nathan Drake Collection**
 
 Eboot Patch (All Three Games, Code's The Same. Apply To All Three Executables)
 
@@ -93,7 +93,7 @@ Memory Edit
 0x1104FC2E95
 
 
-Uncharted 4 1.32/1.33
+**Uncharted 4 1.32/1.33**
 
 Eboot Patch
 
@@ -106,7 +106,7 @@ Memory Edit
 
 
 
-Uncharted: The Lost Legacy 1.00
+**Uncharted: The Lost Legacy 1.00**
 
 Eboot Patch
 
@@ -118,7 +118,7 @@ Memory Edit
 0x1105D1AEF9
 
 
-Uncharted: The Lost Legacy 1.08/1.09
+**Uncharted: The Lost Legacy 1.08/1.09**
 
 Eboot Patch
 
