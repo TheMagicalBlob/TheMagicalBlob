@@ -1,9 +1,10 @@
-Hey There, I’m @TheMagicalBlob. I Make Mods/Cheats For PS4 Games.
-I Mostly Screw With Debug Stuff
-
+Hey There, I Make Things For PS4 Games.
+I Mostly Screw With Debug Stuff.
 You Can Find Me On Discord At TheMagicalBlob#9808, Or On Youtube At https://www.youtube.com/channel/UCqYd1YadQvjnAj_LfHK4iEQ 
 
-Below Is A List Of Codes To Enable The Debug Mode\Menus In PS4 Last of Us/Uncharted Games
+
+
+**Below Is A List Of Codes To Enable The Debug Mode\Menus In PS4 Last of Us/Uncharted Games**
 
 Use The Find\Replace-With On The Decrypted eboot.bin Or Write 0x01 To The Offset Below During Gameplay
 
